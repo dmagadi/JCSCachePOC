@@ -1,15 +1,16 @@
 **JCS basic cache POC**
 Description:
 
-This is a simple POC of using apache JCS cache. This is a maven project 
+This is a simple POC of using apache JCS cache. This is a maven project
+
+https://commons.apache.org/proper/commons-jcs/
 
 Dependency:
 
 commmons-jcs-core-2.1.jar
 
 Configuration:
-JCS Cache configuraion is in main\resources\cache.ccf and currently to set to basic in memory cache. The parameters can be tweaked when needed. 
-
+JCS Cache configuraion is in main\resources\cache.ccf and currently to set to basic in memory cache. The parameters can be tweaked when needed.
 
 Build Instructions:
 
